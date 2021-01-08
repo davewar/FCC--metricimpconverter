@@ -48,13 +48,7 @@ module.exports = function (app) {
       }     
             
       
-     // resObj["string"]= toString;
-
-      
-
-      // res.json({"error":"no unit"})
-      // {"error":"invalid number and unit"}
-      // {"error":"invalid unit"}
+   
 
     });
     
